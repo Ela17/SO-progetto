@@ -1,0 +1,3 @@
+Unity/* linguist-language=C
+test/Unity/* linguist-language=C
+*.h linguist-language=C
